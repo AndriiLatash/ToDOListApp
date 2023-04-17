@@ -1,0 +1,74 @@
+﻿@using TODO_list.ViewModels;
+@model TODOCreationViewModel
+@{
+}
+
+    <div style="text-align: center;">
+    <h3>ToDoList</h3>
+    <div>
+ <form method="post" asp-controller="List" asp-action="Create" class="h-100 border-radius-20 p-3 index-form mb-3 mt-3">
+        
+      
+            <b>Enter task</b>
+            <input type="text" asp-for="CreateNewItem.TaskName" placeholder="TaskName" />
+            <input type="datetime-local" asp-for="CreateNewItem.Deadline" placeholder="Deadline" />
+             
+            <select asp-for="CreateNewItem.CategoryId">
+                @foreach(var category in Model.Categories)
+                {
+                    <option value="@category.Id">@category.CategoryName</option>
+                }
+            </select>
+       
+          <input type="submit" value="Add" class="btn btn-success" />
+     </form>
+        <form method="post" asp-controller="List" asp-action="CreateCategory" class= h-100 border-radius-20 p-3 index-form mb-3 mt-3">
+            <input type="text" asp-for="CreateCategory.CategoryName" placeholder="CategoryName" />
+            <input type="submit" value="Add" class="btn btn-success" />
+        </form>
+    </div>
+    </div>
+
+<table class="table">
+   <thead>
+       <tr>
+            <th>Task name</th>
+            <th>Status</th>
+            <th>Category</th>
+            <th>Due date</th>
+            <th>Status</th>
+            <th></th>
+       </tr>
+   </thead>
+    <tbody>
+        @foreach (var item in Model.ToDoList)
+        {
+            <tr>
+                <td class="p-2">@item.TaskName</td>
+            @if (@item.Status)
+            {
+                    <td class="p-2">Виконано</td>
+            }
+            else
+            {
+                    <td class="p-2">Не зроблено</td>
+            }
+            <td class="p-2">@item.CategoryName</td>
+            <td class="p-2">@item.Deadline </td>
+                <td class="p-2">
+                    <form method="post" asp-route-id="@item.TaskId" class="isCheckedForm d-flex justify-content-center align-items-center" asp-controller="List" asp-action="Update" style="margin-bottom: -2px;">
+                        <input type="hidden" asp-for="EditViewModel.Id" value="@item.TaskId" />
+                    <input class="isCheckedInput" type="checkbox" checked="@item.Status" asp-for="EditViewModel.Status" value="@item.TaskId" />
+                    <button class="btn btn-primary ms-1 p-1 fw-bold" type="submit"><small>Save</small></button>
+                </form>
+                </td>
+                <td class="p-2">                     
+                    <form method="post" asp-controller="List" asp-action="Delete" asp-route-id="@item.TaskId">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                    </td>
+              
+    </tr>
+}
+    </tbody>
+</table>
