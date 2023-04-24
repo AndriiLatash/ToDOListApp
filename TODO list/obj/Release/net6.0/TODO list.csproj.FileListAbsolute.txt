@@ -1,0 +1,82 @@
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\appsettings.Development.json
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\appsettings.json
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\TODO list.staticwebassets.runtime.json
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\TODO list.exe
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\TODO list.deps.json
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\TODO list.runtimeconfig.json
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\TODO list.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\TODO list.pdb
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\AutoMapper.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Azure.Core.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Azure.Identity.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Dapper.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\System.Drawing.Common.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\System.Memory.Data.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\System.Security.Permissions.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\demoPrakt\TODO list\TODO list\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\TODO list.csproj.AssemblyReference.cache
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\TODO list.GeneratedMSBuildEditorConfig.editorconfig
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\TODO list.AssemblyInfoInputs.cache
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\TODO list.AssemblyInfo.cs
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\TODO list.csproj.CoreCompileInputs.cache
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\TODO list.MvcApplicationPartsAssemblyInfo.cache
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\TODO list.RazorAssemblyInfo.cache
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\TODO list.RazorAssemblyInfo.cs
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\staticwebassets\msbuild.TODO list.Microsoft.AspNetCore.StaticWebAssets.props
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\staticwebassets\msbuild.build.TODO list.props
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.TODO list.props
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.TODO list.props
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\staticwebassets.pack.json
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\staticwebassets.build.json
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\staticwebassets.development.json
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\scopedcss\bundle\TODO list.styles.css
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\scopedcss\projectbundle\TODO list.bundle.scp.css
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\TODO list.csproj.CopyComplete
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\TODO list.dll
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\refint\TODO list.dll
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\TODO list.pdb
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\TODO list.genruntimeconfig.cache
+D:\demoPrakt\TODO list\TODO list\obj\Release\net6.0\ref\TODO list.dll
