@@ -56,6 +56,19 @@ namespace TODO_list.Controllers
             return RedirectToAction("Index");
 
         }
+        [HttpGet]
+        public IActionResult Change(string action)
+        {
+            if (action == "Sql")
+            {
+                return RedirectToAction("Index", "List");
+            }
+            else if (action == "Xml")
+            {
+                return RedirectToAction("Index", "Xml");
+            }
+            return RedirectToAction("Index");
+        }
 
     }
 }

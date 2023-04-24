@@ -14,5 +14,27 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    color: gold;
+    margin: 0;
+    background-color: #1d4458e7;
+    font-family: Arial,serif;
+}
+header {
+    background-color: #45224ced;
+}
+.table th, .table td {
+    color: white;
+}
+
+.table th {
+    font-weight: bold;
+}
+
+.text-success {
+    color: green;
+}
+
+.text-danger {
+    color: red;
 }

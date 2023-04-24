@@ -2,6 +2,15 @@
 @model TODOCreationViewModel
 @{
 }
+<form asp-controller="List" asp-action="Change" method="get">
+    <select asp-for="SelectForm">
+        <option value="Xml">Xml</option>
+        <option value="Sql">Sql</option>
+    </select>
+    <button type="submit">Go</button>
+</form>
+
+
 
     <div style="text-align: center;">
     <h3>ToDoList</h3>
@@ -22,7 +31,7 @@
        
           <input type="submit" value="Add" class="btn btn-success" />
      </form>
-        <form method="post" asp-controller="List" asp-action="CreateCategory" class= h-100 border-radius-20 p-3 index-form mb-3 mt-3">
+        <form method="post" asp-controller="List" asp-action="CreateCategory" class="h-100 border-radius-20 p-3 index-form mb-3 mt-3">
             <input type="text" asp-for="CreateCategory.CategoryName" placeholder="CategoryName" />
             <input type="submit" value="Add" class="btn btn-success" />
         </form>
@@ -57,8 +66,7 @@
             <td class="p-2">@item.Deadline </td>
                 <td class="p-2">
                     <form method="post" asp-route-id="@item.TaskId" class="isCheckedForm d-flex justify-content-center align-items-center" asp-controller="List" asp-action="Update" style="margin-bottom: -2px;">
-                        <input type="hidden" asp-for="EditViewModel.Id" value="@item.TaskId" />
-                    <input class="isCheckedInput" type="checkbox" checked="@item.Status" asp-for="EditViewModel.Status" value="@item.TaskId" />
+                    <input class="isCheckedInput" type="checkbox" checked="@item.Status" value="@item.TaskId" />
                     <button class="btn btn-primary ms-1 p-1 fw-bold" type="submit"><small>Save</small></button>
                 </form>
                 </td>

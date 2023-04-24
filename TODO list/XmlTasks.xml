@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<List>
+  <Categories>
+    <Id>1</Id>
+    <CategoryName>1сфе</CategoryName>
+  </Categories>
+  <Categories>
+    <Id>2</Id>
+    <CategoryName>2cart</CategoryName>
+  </Categories>
+  <Categories>
+    <Id>3</Id>
+    <CategoryName>444</CategoryName>
+  </Categories>
+  <Task TaskId="2">
+    <TaskName>3</TaskName>
+    <Deadline>2023-04-08T15:16:00</Deadline>
+    <CategoryName>1сфе</CategoryName>
+    <Status>false</Status>
+  </Task>
+</List>
